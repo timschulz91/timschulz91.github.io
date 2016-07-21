@@ -1,8 +1,7 @@
 ---
-title: ""
+title: "About Me"
 ---
 
-# About Me
 I am just about to finish up my Masters in Economics at Simon Fraser University. I have a
 knack for everything data and tech/computer related. Being in job search mode, I am hoping 
 to find a job that lets me work in the area of data analysis (ideally with emphasis on
