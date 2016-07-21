@@ -1,5 +1,6 @@
 ---
-title: "Tim Schulz -- Personal Website"
+title: ""
 ---
+<br>
 
 Hello, Website!
