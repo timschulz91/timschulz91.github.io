@@ -1,5 +1,14 @@
 ---
-title: "About This Website"
+title: ""
 ---
 
-More about this website.
+# About Me
+I am just about to finish up my Masters in Economics at Simon Fraser University. I have a
+knack for everything data and tech/computer related. Being in job search mode, I am hoping 
+to find a job that lets me work in the area of data analysis (ideally with emphasis on
+coding). In preparation for this, I focused on econometrics courses during grad school.
+Some more details on that on my [LinkedIn](https://ca.linkedin.com/in/timschulz91)
+
+I also love snowboarding (SPEED!!!) and enjoy a good game of soccer as long as people don't
+take things too seriously. Reading is a great way to kill some free time (what's that?) as
+well.
