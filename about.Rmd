@@ -5,7 +5,7 @@ title: "About Me"
 I just finished up my Masters in Economics at Simon Fraser University. I have a
 knack for everything data and tech/computer related. Being in job search mode, I
 am hoping to find a job that lets me work in the area of data analysis (ideally
-with emphasis oncoding) or anything quantitative, really. The practical
+with emphasis on coding) or anything quantitative, really. The practical
 implementation of this could be in the immediate context of a company's core
 business or take on a wider scope in the context of consulting.
 
