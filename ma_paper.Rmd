@@ -1,0 +1,27 @@
+---
+title: "MA Paper"
+---
+
+The paper itself can be found [here](grad_school/MAPaper.pdf) and the entire
+project is hosted [here](https://github.com/timschulz91/ma-project).
+
+I mostly wanted to work with a large dataset. After some research, I came
+across the Wikipedia page traffic dumps with a compressed size of well above 2
+TB. Since traffic is recorded separately for non-mobile and mobile pages, the
+question that came to mind was how mobile internet usage has developed over
+time. 
+
+From the abstract of my paper:
+
+> I analyze the development of mobile internet usage from the beginning of 2008
+> to the end of 2015 based on the S-curve model of technological diffusion
+> proposed by Griliches (1957) using Wikimedia page traffic as a case study. I
+> extend the model by allowing for temporary changes due to the introduction of
+> various smartphones to the market. These changes are estimated to be positive
+> as one might expect and the effect of new devices on mobile internet usage is
+> diminishing over time.
+>
+> This analysis is done for every language that Wikimedia pages are written in.
+> While the numerical estimation does not converge to a unique solution for some
+> of the more exotic languages, it is quite reliable for more popular languages,
+> the results for some of which are shown in this paper as examples.
