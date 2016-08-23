@@ -2,7 +2,7 @@
 title: "Experimental Economics Project"
 ---
 
-The paper can be found [here](828Paper.html) and the project
+The paper can be found [here](grad_school/828Paper.pdf) and the project
 including a brief, preliminary Monte Carlo simulation of the experiment can be
 found [here](https://github.com/timschulz91/econ828project).
 
