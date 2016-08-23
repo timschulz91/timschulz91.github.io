@@ -3,4 +3,19 @@ title: ""
 ---
 <br>
 
-Hello, Website!
+My name is Tim Schulz. I just finished my Masters in Economics and am looking
+for a job in and around beautiful Vancouver, BC. Some more information about me
+can be found [here](about.html).
+
+# Grad School
+Two examples of some of my grad school projects are
+
+#####[my MA paper](ma_paper.html),
+  in which I describe how the introduction of new smartphones affects mobile
+  internet usage in different languages using Wikimedia page traffic as an
+  example, and
+
+#####[my project in Experimental Economics](828project.html),
+  in which I propose an experiment that helps identify how people perceive the
+  severity of different degrees of inequality depending on whether they are
+  themselves rich or poor.

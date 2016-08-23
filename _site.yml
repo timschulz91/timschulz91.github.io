@@ -8,6 +8,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Grad School"
+      menu:
+        - text: "MA Paper"
+          href: ma_paper.html
+        - text: "Experimental Economics Project"
+          href: 828project.html
   right:
     - text: "About"
       href: about.html
