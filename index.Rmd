@@ -3,7 +3,7 @@ title: "Tim Schulz -- Personal Website"
 ---
 <br>
 
-My name is Tim Schulz. I just finished my Masters in Economics and am looking
+My name is Tim Schulz. I just finished my Masters in Economics and I am looking
 for a job in and around beautiful Vancouver, BC. Some more information about me
 can be found [here](about.html).
 
